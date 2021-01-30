@@ -1,0 +1,9 @@
+##Numpy
+
+#numpy module
+ndarray 데이터 생성/ 인덱싱 & 슬라이싱/ reshape, flatten/ 기본 함수
+axis(축)
+broadcasting
+boolean indexing
+linalg
+그래프 
