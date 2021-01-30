@@ -1,0 +1,14 @@
+#Crawling
+
+#웹 기본 지식 이해
+개발자 도구 사용 - 웹 페이지 분석
+HTTP method(GET, POST) 이해
+HTML element 이해(태그, 속성, 값)
+
+#API
+request module 사용(HTTP 통신)
+공공데이터 API 활용하여 json 데이터 추출
+
+#Beautiful soup 모듈
+
+#selenium 모듈
